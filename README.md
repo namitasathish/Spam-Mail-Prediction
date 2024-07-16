@@ -2,3 +2,4 @@
 
 - This focuses on classifying email messages as either spam or ham (non-spam) using ML. 
 - The primary model used for classification is a logistic regression model trained on TF-IDF features of the email text.
+- The aim here is to findout and filter out unwanted spam mails
